@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnTEq1232
-- 👀 I’m interested in creating softwares but still learning. First grade in technical school
+- 👀 I’m interested in creating softwares but still learning. Second grade in technical school
 - 🌱 I’m currently learning java,js,c++,html,css
 - 💞️ I’m looking to collaborate on someone who can give some "learning based project smth like this"
 
